@@ -1,0 +1,11 @@
+@import url(menustyle.css);
+
+.imagem{
+    width: 25%;
+    height: 25%;
+    margin-left: 40%;
+}
+.p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
